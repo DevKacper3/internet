@@ -1,0 +1,25 @@
+{
+  "planszowki": [
+    {
+      "tytul": "szachy",
+      "minLG": 2,
+      "maxLG": 2,
+      "czas": 10,
+      "trudnosc": "srednie"
+    },
+     {
+      "tytul": "uno",
+      "minLG": 2,
+      "maxLG": 8,
+      "czas": 20,
+      "trudnosc": "latwe"
+    },
+     {
+      "tytul": "dungeons and dragons",
+      "minLG": 4,
+      "maxLG": 12,
+      "czas": 180,
+      "trudnosc": "trudne"
+    }
+  ]
+}
